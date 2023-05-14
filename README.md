@@ -1,2 +1,2 @@
 # aws-amplify-react-graphql
-React app with AWS amplify and GraphQl
+React app with AWS Amplify and GraphQl
