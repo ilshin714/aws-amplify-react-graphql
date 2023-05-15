@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> c25a3aa7066bd97a7617514f641b0dad1a00535b
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +72,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<<<<<<< HEAD
+=======
+=======
+# aws-amplify-react-graphql
+React app with AWS Amplify and GraphQl
+>>>>>>> 830d6fc7a878a0b167b503df3bef7d625c5191fa
+>>>>>>> c25a3aa7066bd97a7617514f641b0dad1a00535b
