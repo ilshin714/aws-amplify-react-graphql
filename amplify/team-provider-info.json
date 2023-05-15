@@ -17,6 +17,9 @@
       },
       "api": {
         "awsamplifyreactgraph": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
